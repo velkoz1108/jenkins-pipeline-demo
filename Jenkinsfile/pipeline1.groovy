@@ -9,7 +9,7 @@ pipeline{
         script{
           
           println "Hello step one."
-          
+          println "Hello step two."
         }
       }
     }
